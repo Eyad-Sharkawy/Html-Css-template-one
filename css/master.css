@@ -201,6 +201,7 @@ header .container .links .menu li a:hover {
     background-image: url("../media/landing.jpg");
     background-size: cover;
     height: calc(100vh - 64px);
+    height: calc(100dvh - 64px);
     position: relative;
 }
 
@@ -344,6 +345,12 @@ header .container .links .menu li a:hover {
 
 .portfolio .card:hover {
     transform: scale(1.1);
+}
+
+@media (max-width: 425px) {
+    .portfolio .card:hover {
+        transform: scale(1.05);
+    }
 }
 
 .portfolio .card img {

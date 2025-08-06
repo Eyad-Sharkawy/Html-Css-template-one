@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95afecad-4704-43a8-a713-6070bfd30486" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/master.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/landing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/portfolio-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/portfolio-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/portfolio-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/services.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/master.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/master.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +63,7 @@
       <updated>1754394197910</updated>
       <workItem from="1754394199011" duration="23276000" />
       <workItem from="1754467089152" duration="328000" />
-      <workItem from="1754476335211" duration="28456000" />
+      <workItem from="1754476335211" duration="30214000" />
     </task>
     <servers />
   </component>
