@@ -201,7 +201,6 @@ header .container .links .menu li a:hover {
     background-image: url("../media/landing.jpg");
     background-size: cover;
     height: calc(100dvh - 64px);
-    height: calc(100vh - 64px);
     position: relative;
 }
 
