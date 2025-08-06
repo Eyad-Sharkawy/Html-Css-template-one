@@ -1,6 +1,6 @@
 # Leon - Template One
 
-A modern, responsive web template for creative agencies and design studios. This template features a clean, minimal design with smooth animations and a professional layout.
+A modern, responsive website template I created to learn more about pure CSS and HTML. This template features a clean, minimal design with smooth animations and a professional layout.
 
 ## 🎨 Features
 
