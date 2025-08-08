@@ -1,7 +1,7 @@
 # Leon - Template One
 
 A modern, responsive website template I created to learn more about pure CSS and HTML. This template features a clean, minimal design with smooth animations and a professional layout.
-https://eyad-sharkawy.github.io/Html-Css-template-one/
+[https://eyad-sharkawy.github.io/Html-Css-template-one/](https://html-css-template-one-inky.vercel.app/)
 
 ## 🎨 Features
 
